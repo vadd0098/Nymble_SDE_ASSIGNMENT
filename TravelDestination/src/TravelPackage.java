@@ -1,4 +1,3 @@
-package src.src;
 public enum PassengerType {
     STANDARD("Standard", 1.0),
     GOLD("Gold", 0.9),
