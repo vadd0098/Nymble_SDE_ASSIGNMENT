@@ -1,4 +1,3 @@
-package src.src;
 
 import javax.print.attribute.standard.Destination;
 
