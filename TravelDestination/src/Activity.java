@@ -1,4 +1,4 @@
-package src.src;
+
 public class Activity {
 
     private String name;
